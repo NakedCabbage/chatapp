@@ -1,0 +1,496 @@
+1  exit
+2  source .venv/bin/activate
+3  reflex init
+4  reflex run
+5  cd ..
+6  ls
+7  cd david
+8  ls
+9  passwd
+10  passwd
+11  su root
+12  exit
+13  123
+14  ls
+15  cd..
+16  cd ..
+17  mkdir root
+18  ls
+19  ls
+20  home/root
+21  cd root
+22  source .venv/bin/activate
+23  nano david.py
+24  reflex run
+25  david.py
+26  nano root/root.py
+27  ls
+28  ls
+29  root/root.py
+30  os
+31  ls
+32  root/root.py
+33  nano root/root.py
+34  nano root/root.py
+35  nano root/root.py
+36  rm root/root.py
+37  cat root/root.py
+38  nano root/root.py
+39  cd /home/root
+40  ls
+41  nano root/root.py
+42  nano root.py
+43  nano hello.py
+44  nano root.py
+45  ls
+46  ls
+47  ls
+48  ls
+49  nano root/root.py
+50  nano root/root.py
+51  nano root/root.py
+52  nano root/root.py
+53  cat root/root.py
+54  cat root/root.py
+55  cat root/root.py
+56  cat root/root.py
+57  cat root/root.py
+58  cat root/root.py
+59  cat root/root.py
+60  cat root/root.py
+61  cat root/root.py
+62  cat root/root.py
+63  cat root/root.py
+64  cat root/root.py
+65  cat root/root.py
+66  cat root/root.py
+67  cat root/root.py
+68  cat root/root.py
+69  ls
+70  cd ..
+71  ls
+72  ls
+73  cd root
+74  ls
+75  ls
+76  cd  ~
+77  ls
+78  pwd
+79  cd /home/root
+80  ls
+81  clear
+82  cd ..
+83  cd /home/root
+84  ls
+85  python3 -m venv .venv
+86  source .venv/bin/activate
+87  pip install --upgrade pip
+88  time pip install reflex
+89  reflex init
+90  ls
+91  reflex run
+92  reflex run
+93  reflex run
+94  reflex run
+95  exit
+96  cd ~
+97  exit
+98  exit
+99  reflex run
+100  cd david
+101  ls
+102  ls
+103  ls
+104  p
+105  proc
+106  ls /proc
+107  user
+108  exi
+109  exit
+110  cd ..
+111  cd david
+112  ls
+113  cat myscript.sh
+114  exit
+115  reflex run
+116  ls
+117  cd root
+118  nano root.py
+119  cd
+120  ls
+121  cd /home/root/root
+122  nano root.py
+123  nano root.py
+124  nano root.py
+125  pwd
+126  nano root.py
+127  ls
+128  rm root.py
+129  ls
+130  nano root
+131  nano root/root.py
+132  nano root/root.py
+133  nano root/root.py
+134  nano root/root.py
+135  pwd
+136  cat
+137  cat
+138  cat /home/david/myscript.sh
+139  ;p
+140  reflex run
+141  root.py
+142  root.py
+143  reflex run
+144  reflex run
+145  pwd
+146  reflex run
+147  reflex run
+148  cd root/root
+149  cat root.py
+150  reflex run
+151  nano root/root.py
+152  cd ..
+153  pwd
+154  mkdir chatapp
+155  cd chatapp
+156  chatapp $ python3 -m venv venv
+157  source venv/bin/activate
+158  python3 -m venv venv
+159  pwd
+160  source venv/bin/activate
+161  pip install reflex
+162  py -m pip install --upgrade pip
+163  -m pip install --upgrade pip
+164  python3 -m pip install --upgrade pip
+165  pip install reflex
+166  reflex init
+167  reflex run
+168  cd ..
+169  cd chatapp/
+170  pwd
+171  ls
+172  nano chatapp
+173  nano chatapp/chaptapp.py
+174  nano chatapp/chatapp.py
+175  nano chatapp/chatapp.py
+176  pwd
+177  ls
+178  cd ..
+179  pwd
+180  cd ..
+181  pwd
+182  ls
+183  cd chatapp
+184  pwd
+185  ls
+186  nano chatapp.chatapp.py
+187  ls
+188  nano rm chatapp.chatapp.py
+189  ls
+190  ls
+191  nano chatapp/chatapp.py
+192  ls
+193  nano chatapp/style.py
+194  cd ..
+195  cd chatbot
+196  ls
+197  cd chatapp
+198  reflex run
+199  ls
+200  cd ..
+201  ls
+202  cd chatapp/
+203  ls
+204  ls
+205  l
+206  nano chatapp/chatapp.py
+207  ls
+208  cat chatapp.chatapp.py
+209  rm chatapp.chatapp.py
+210  nano chatapp/chatapp.py
+211  cat chatapp/chatapp.py
+212  cat chatapp/chatapp.py
+213  ls
+214  cd chatapp/
+215  ls
+216  cd ..
+217  pwd
+218  cd .. chatap
+219  cd chatapp
+220  pwd
+221  ls
+222  nano chatapp/chatapp.py
+223  reflex run
+224  pip install reflex --upgrade
+225  reflex run
+226  reflex init
+227  reflex run
+228  cd ..
+229  cd chatapp
+230  reflex run
+231  reflex run
+232  cd chatapp
+233  cd chatapp
+234  cd ..
+235  cd chatapp
+236  reflex run
+237  nano chatapp/chatapp.py
+238  reflex run
+239  cd ..
+240  cd chatapp
+241  ls
+242  cd ..
+243  ls
+244  cd chatapp
+245  ls
+246  cd chatapp
+247  ls
+248  ls
+249  nano style.py
+250  nano style.py
+251  nano style.py
+252  nano style.py
+253  nano style.py
+254  cd ..
+255  cd chatapp
+256  reflex run
+257  ccd ..
+258  cd ..
+259  cd chatapp/
+260  ls
+261  cd chatapp/
+262  nano chatapp.py
+263  ls
+264  rm styles.py
+265  nano chatapp.py
+266  nano chatapp.py
+267  nano style.py
+268  nano style.py
+269  cat style.py
+270  cat style.py
+271  cd ..
+272  cd chatapp
+273  cs ..
+274  cd ..
+275  pwd
+276  cd chatapp
+277  reflex run
+278  passwd
+279  vim /etc/ssh/sshd_config
+280  exit
+281  history
+282  cd ..
+283  cd chatapp
+284  reflex run
+285  cd ..
+286  cd chatbot
+287  cd chatapp
+288  sudo passwd
+289  sudo passwd
+290  sudo service sshd restart
+291  sudo service sshd restart
+292  exit
+293  cd ../
+294  cd chatapp
+295  ls
+296  nano
+297  cd chatapp
+298  nano
+299  ls
+300  nano chatapp.py
+301  nano chatapp.py
+302  nano chatapp.py
+303  cd ..
+304  cd chatapp
+305  sudo passwd
+306  reflex run
+307  cs ..
+308  cd ..
+309  cd chatapp
+310  cd root/root
+311  cd ../
+312  cd root/root
+313  cd ..
+314  cd ..
+315  cd chatapp/chatapp/
+316  ;s
+317  ls
+318  nano
+319  .. cd
+320  cd ...
+321  cd ..
+322  cd ..
+323  cd ..
+324  cd chatbot
+325  cd chatapp
+326  ;s
+327  ls
+328  root chatbot
+329  history
+330  ls
+331  history
+332  cd chatapp
+333  nano state.py
+334  cd chatapp
+335  ;s
+336  cd ../
+337  cd chatapp/chatapp/
+338  nano state.py
+339  nano state.py
+340  nano state.py
+341  cd ../
+342  cd chatapp
+343  reflex run
+344  cd ..
+345  cd chatapp
+346  reflex run
+347  cd ../
+348  cd chatapp
+349  nano chatapp/chatapp
+350  lb
+351  history
+352  ls
+353  cd chatapp
+354  ls
+355  nano state
+356  nano state.py
+357  ls
+358  nano state.py.save
+359  nano state.py
+360  nano state.py
+361  nano state.py
+362  cd ../
+363  reflex run
+364  reflex init
+365  reflex run
+366  cd ../
+367  cd chatapp
+368  cd ../
+369  cd chatapp
+370  reflex run
+371  cd ../
+372  cd chatapp
+373  cd chatapp
+374  nano state.py
+375  cd ../
+376  cd chatapp
+377  reflex run
+378  cd ../
+379  cd chatapp
+380  cd chatapp
+381  nano state.py
+382  cd ..
+383  reflex run
+384  cd ../
+385  cd chatapp
+386  cd chatapp
+387  nano chatapp.py
+388   nano chatapp.py
+389  cd ../
+390  nano state.py
+391  cd chatapp/chatapp
+392  nano state.py
+393  exit
+394  cd ../
+395  cd chatapp/chatapp
+396  nano state.py
+397  nano state.py
+398  nano state.py
+399  nano state.py
+400  nano state.py
+401  nano state.py
+402   nano state.py
+403  nano state.py
+404  nano state.py
+405  nanp state.py
+406  nano state.py
+407  nano state.py
+408  nano state.py
+409  nano state.py
+410  nanp chatapp.py
+411  nano chatapp.py
+412  nano state.py
+413  cd ../
+414  cd chatapp/chatapp
+415  nano state.py
+416  nano chatapp.py
+417  nano state.py
+418  ls
+419  nano state.py.save1
+420  nano state.py.save.1
+421  nano state.py.save
+422  nano state.py
+423  nano chatapp.py
+424  nano state.py
+425  nano chatapp.py
+426  nano state.py
+427  nano chatapp.py
+428  cd ../
+429  cd chatapp
+430  reflex run
+431  cd ../
+432  cd chatapp
+433  nano chatapp.py
+434  cd chatapp
+435  nano chatapp.py
+436  nano state.py
+437  nano state.py
+438  nano chatapp.py
+439  nano state.py
+440  nano chatapp.y
+441  nano chatapp.py
+442  cd.. /
+443  cd ../
+444  cd chatapp
+445  reflex run
+446  cd .. /
+447  cd ../
+448  cd chatapp/chatapp
+449  nano state.py
+450  nano state.py
+451  nano state.py
+452  nano state.py
+453  cd ../
+454  cd chatapp
+455  reflex run
+456  cd ../
+457  cd chatapp
+458  cd chatapp
+459  nano chatapp.py
+460  cd state.py
+461  nano state.py
+462  nano state.py
+463  nano chatapp.py
+464  nano state.py
+465  nano state.pyt
+466  nano state.py
+467  cd ../
+468  cd chatapp
+469  reflex run
+470  cd ../
+471  cd chatbot
+472  cd chatapp
+473  ls
+474  cd ../
+475  cd chatapp
+476  reflex run
+477  cd chatapp
+478  ls
+479  nano chatapp.py
+480  exit
+481  pwd
+482  cd ../
+483  cd ..
+484  cd ..
+485  cd ../
+486  exit
+487  cd ~
+488  cd ~
+489  cd ~
+490  exit
+491  exit
+492  /cd ..
+493  cd ..
+494  /cd ..
+495  cd chatapp
+496  history
